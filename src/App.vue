@@ -146,13 +146,13 @@
               Building functional and beautiful applications</li>
             <li>
               <i class="fa-li fa fa-check"></i>
-              Working with a team of developers</li>
+              Working in a fast paste enviroument</li>
             <li>
               <i class="fa-li fa fa-check"></i>
-              Always hungry to learn more</li>
+              Analytic and always eager to learn more</li>
             <li>
               <i class="fa-li fa fa-check"></i>
-              ALOT of coffee drinking</li>
+              Love working with problem solving</li>
           </ul>
           <br>
           <div class="subheading mb-3">Technologies I'm working with
